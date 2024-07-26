@@ -1,0 +1,16 @@
+.container{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .wrapper{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        table{
+            td{
+                padding: 10px 20px;
+            }
+        }
+    }
+}
